@@ -1,4 +1,4 @@
-# Hi there 👋. I'm Matthew Mammola
+# Hi there 👋. Matt here.
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="city_skyline_dark_mode_banner.png">
   <source media="(prefers-color-scheme: light)" srcset="city_skyline_light_mode_banner.png">
