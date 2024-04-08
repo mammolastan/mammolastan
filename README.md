@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="city_skyline_dark_mode_banner.png">
   <source media="(prefers-color-scheme: light)" srcset="city_skyline_light_mode_banner.png">
-  <img alt="City skyline" title="City skyline" src="city_skyline_light_mode_banner.png">
+  <img alt="City skyline" title="Dark/light responsive city skyline" src="city_skyline_light_mode_banner.png">
 </picture>
 
 ## Full-stack web developer and digital marketer
